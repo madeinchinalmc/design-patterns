@@ -1,6 +1,6 @@
 package main
 
-import . "./structured"
+import . "./structure/flyweight"
 
 func main(){
 	treeTypeMaple := NewTreeType("枫树","红叶","无纹理")

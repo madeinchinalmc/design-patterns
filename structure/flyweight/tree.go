@@ -1,4 +1,4 @@
-package structured
+package flyweight
 
 import "fmt"
 
